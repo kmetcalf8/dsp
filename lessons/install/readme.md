@@ -47,8 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
+>> Python 3 because it is the recommended version and the version that I am most comfortable working with for class
 ### Q2. Which Python Version Installed   
 
 In the Terminal:
